@@ -1,0 +1,21 @@
+From dadexter at gmail.com  Sat Jul 15 16:02:32 2006
+From: dadexter at gmail.com (Martin Lefebvre)
+Date: Sat, 15 Jul 2006 10:02:32 -0400
+Subject: [Buildpkg-devel] buildpkg
+Message-ID: <ed5f04980607150702p4b9c023brce63641e9d34beb6@mail.gmail.com>
+
+Development is continuing
+
+-- 
+Martin Lefebvre
+eMail: dadexter at gmail.com
+
+WWW: http://sigterm.homeunix.com
+Registered Linux #349269
+
+"Me? I'm dishonest, and a dishonest man you can always trust to
+be dishonest. Honestly. It's the honest ones you want to watch
+out for, because you can never predict when they're going to do
+something incredibly... stupid."
+
+
